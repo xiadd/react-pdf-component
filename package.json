@@ -1,0 +1,51 @@
+{
+  "name": "react-pdfjs-component",
+  "version": "0.0.3",
+  "description": "",
+  "main": "lib/viewer.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^2.2.228",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "peerDependencies": {
+    "pdfjs-dist": "^2.2.228",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "prop-types": "^15.7.2",
+    "raw-loader": "^4.0.0",
+    "rollup": "^1.27.14",
+    "style-loader": "^1.1.2",
+    "url-loader": "^3.0.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiadd/react-pdf-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiadd/react-pdf-component/issues"
+  },
+  "homepage": "https://github.com/xiadd/react-pdf-component#readme"
+}
