@@ -34,8 +34,8 @@ codesandbox: https://codesandbox.io/s/intelligent-haze-hwpvy
 
 ## todo
 
-[ ] file data
-[ ] findContorller
-[ ] cursorController
-[ ] markers
-[ ] demo site
+- [ ] file data
+- [ ] findContorller
+- [ ] cursorController
+- [ ] markers
+- [ ] demo site
